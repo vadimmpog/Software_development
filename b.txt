@@ -1,1 +1,1 @@
-b
+That's b file.
