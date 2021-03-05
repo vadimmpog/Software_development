@@ -1,1 +1,1 @@
-That's b file.
+That's b file. Commit with changes in b.
